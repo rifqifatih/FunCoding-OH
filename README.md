@@ -1,5 +1,5 @@
 # FunCoding OHFasilkom 2015
-Source code for Fasilkom open house
+Source code for Fasilkom open house coding session.
 
 Edit these files associated to each level:
 ```javascript
@@ -11,5 +11,5 @@ solusi/level5_solusi.js
 ```
 
 ## Credits
-[win-t](https://github.com/win-t) for the initial source code
+[win-t](https://github.com/win-t) for the initial source code  
 [Ristek GameDev 2015](http://ristek.cs.ui.ac.id) for the assets
